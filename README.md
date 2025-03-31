@@ -3,7 +3,7 @@
 # ![alt text](images/Fly-Fishing-The-Smoky-Mountains.jpg)
 # HTML, CSS, and Bootstrap
 # https://www.figma.com/design/FZvf84s0m4IG0d86BUrV9v/Project1-Wireframe?node-id=3-33&t=kCshASebdqeudDMf-1
-# As a first time fisherman, I want to learn how to fly fish so that I can gain a new hobby.
+# As a first time fisherman, I want to find a place that offers lessons so I booked a guided tour.
 
 As an avid fly fisher, I was in need of a new fly rod and flies so I took a look into this sites shop and was able to accuire a new rod and numerous flies to add to my collection.
 
