@@ -7,5 +7,9 @@ main {
 }
 
 footer {
-     background-color: rgb(90, 85, 85);
+     background-color: rgb(138, 131, 131);
+}
+
+header {
+    background-color:  rgb(138, 131, 131)  ;
 }
