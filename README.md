@@ -1,6 +1,8 @@
 # Fly Fishing
 # A site where you can book guided fishing tours where our guides will teach you how to fly fish and you can rent or buy fly rods and flies in our shop.
-# ![alt text](images/Fly-Fishing-The-Smoky-Mountains.jpg)
+# ![alt text](images/README.1.png)
+![alt text](images/README.1a.png) 
+![alt text](images/README.2.png)
 # HTML, CSS, and Bootstrap
 # Wire Frame: https://www.figma.com/design/FZvf84s0m4IG0d86BUrV9v/Project1-Wireframe?node-id=3-33&t=kCshASebdqeudDMf-1
 # As a first time fisherman, I want to find a place that offers lessons so I booked a guided tour.

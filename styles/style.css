@@ -10,6 +10,6 @@ footer {
      background-color: rgb(138, 131, 131);
 }
 
-header {
-    background-color:  rgb(138, 131, 131)  ;
+.row div {
+    display:block;
 }
