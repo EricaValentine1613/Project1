@@ -8,7 +8,8 @@
 # Wire Frame:![alt text](images/wireframe.1.png)
 ![alt text](images/wireframe.2.png)
 ![alt text](images/wireframe.3.png)
-# As a first time fisherman, I want to find a place that offers lessons so I booked a guided tour.
+# User Stories
+As a first time fisherman, I want to find a place that offers lessons so I booked a guided tour
 
 As an avid fly fisher, I was in need of a new fly rod and flies so I took a look into this sites shop and was able to accuire a new rod and numerous flies to add to my collection.
 
